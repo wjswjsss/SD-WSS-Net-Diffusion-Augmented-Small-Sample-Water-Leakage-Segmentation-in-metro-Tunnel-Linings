@@ -3,8 +3,8 @@ Official implementation of SD-WSS-Net, a two-stage deep learning framework
 
 ⚠️ Code and Data Availability Notice
 
-Due to a tight schedule, we are currently finalizing the repository setup。
+Thank you for your interest in our work.
 
-We anticipate that the complete, reproducible code, pre-trained weights, and detailed instructions will be uploaded here within **one week** (After first submission to Journal).
+The official code and data for **SD-WLSNet** are currently pending release. To ensure the integrity of the academic review process, we will make the full implementation publicly available in this repository immediately following the paper's acceptance for publication.
 
-Thank you for your patience!
+We appreciate your patience and understanding.
